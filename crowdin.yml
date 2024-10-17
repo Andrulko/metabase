@@ -1,3 +1,10 @@
 files:
   - source: /locales/metabase.pot
     translation: /locales/%two_letters_code%.po
+    languages_mapping:
+      two_letters_code:
+        ar-SA: ar-SA
+        pt-BR: pt-BR
+        zh-CN: zh-CN
+        zh-TW: zh-TW
+        zh-HK: zh-HK
